@@ -10,11 +10,11 @@
 ### 👦 About Me
 - 👨‍💻 Blockchain Enthusiast, Product Engineer. Great at translating customer and business needs into effective and efficient internet products.
 
-- 🔭 I’m currently working on **Metaverse & Immersive Worlds**
+- 🔭 I’m currently working on **Blockchain Wallet Infrastructure**
 
-- 🌱 I’m currently learning **Hardware & Artificial Intelligence**
+- 🌱 I’m currently learning **Cryptography & Trustless Multi-Party Compute**
 
-- ⚡ Fun fact : **My Git-Hub codes = 30% Me + 30% StackOverflow + 40% Google**
+- ⚡ Fun fact : **My Git-Hub codes = 30% Me + 30% StackOverflow + 40% ChatGPT**
 
 --- 
 
