@@ -1,112 +1,182 @@
-<div id="header" align="center">
-  <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/>
-</div>
+<div align="center">
 
-<h2 align="center">Hi 👋, I'm Ajay Srinivas</h2>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:0f3460&height=220&section=header&text=AJ%20Srinivas&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Building%20the%20capability%20%26%20economic%20layer%20for%20the%20agent%20economy&descSize=17&descAlignY=58&descAlign=50" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+AJ%2C+Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg)
+  [![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=00FF9F&center=true&vCenter=true&width=720&lines=Agents+need+wallets%2C+not+API+keys.;Money+should+move+at+the+speed+of+inference.;The+next+internet+is+machine-to-machine.;Crypto+rails+%2B+AI+agents+%3D+a+new+economy.)](https://git.io/typing-svg)
 
----
-### 👦 About Me
-- 👨‍💻 Blockchain Enthusiast, Product Engineer. Great at translating customer and business needs into effective and efficient internet products.
+  <a href="https://www.linkedin.com/in/ajays97/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ajaysrinivas530@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/ajays97"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
-- 🔭 I’m currently working on **Blockchain Wallet Infrastructure**
+  ![Profile views](https://komarev.com/ghpvc/?username=ajays97&color=00ff9f&style=flat-square&label=PROFILE+VIEWS)
+  ![Years coding](https://img.shields.io/badge/years_coding-8%2B-00ff9f?style=flat-square)
+  ![Status](https://img.shields.io/badge/status-shipping-00ff9f?style=flat-square)
 
-- 🌱 I’m currently learning **Cryptography & Trustless Multi-Party Compute**
-
-- ⚡ Fun fact : **My Git-Hub codes = 30% Me + 30% StackOverflow + 40% ChatGPT**
-
---- 
-
-### 🔥 My Stats 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=ajays97&count_private=true&show_icons=true&theme=react)
-![GitHub Streak](https://streak-stats.demolab.com/?user=ajays97&theme=react)
-![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=ajays97&theme=react-dark)
-<a href="https://github.com/ajays97/github-stats">
-<img src="https://github.com/ajays97/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/ajays97/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajays97&layout=compact&langs_count=10&theme=react) -->
-<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ajays97&theme=react) -->
-
---- 
-
-### :hammer_and_wrench: Languages and Tools 
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" title="JavaScript" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJs" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJs" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJs" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226091304-3b3e278f-b249-497d-a020-c13cba259e53.png" alt="NextJs" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="Mysql" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226094099-12fc633e-af1f-474b-ae66-951b09881305.png" alt="workbench" width="40" height="40"/>&nbsp;   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>&nbsp;        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226092559-edfa9908-a7ec-461c-918a-1f1d1fc3156f.png" alt="vercel" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226092756-fa7e7ed6-bfe3-4c24-9c49-ad1acfc436d6.png" alt="render" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" alt="jenkins" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226091590-d7d020ad-ce51-4497-bd7e-db7ed6e81589.png" alt="analytics" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226092991-4c479dbd-e253-4bec-ba2c-598206a7848d.png" alt="clarity" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226091920-a6b75979-6f7f-427f-8a95-c6fe279929f2.png" alt="swagger" width="40" height="40"/>&nbsp;
-  <img src="https://svgshare.com/i/5xY.svg" alt="heroku" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226091987-3cdf9344-dcfa-4d4e-ad0d-d3ab37c3c4db.png" alt="notion" width="40" height="40"/>&nbsp;
-   <img src="https://user-images.githubusercontent.com/79409258/226093710-b6a36dcd-8a66-4a1b-8ef2-1faeb0b6f3e2.png" alt="canva" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
-### 📈 Weekly Developement Breakdown
+## 🧭 The thesis I'm betting on
 
-<!--START_SECTION:waka-simple-->
+The internet was built for humans clicking buttons. The next one is being built for **agents calling APIs** — and the rails it runs on don't fit anymore.
 
-```text
-No activity tracked
+```
+                 ┌──────────────────────────────────────┐
+                 │   The Agent Economy needs new rails  │
+                 └──────────────────────────────────────┘
+                                  │
+              ┌───────────────────┼───────────────────┐
+              ▼                   ▼                   ▼
+      ┌──────────────┐   ┌──────────────┐   ┌──────────────┐
+      │  Capability  │   │   Economic   │   │   Identity   │
+      │   discovery  │   │   settlement │   │   & trust    │
+      │              │   │              │   │              │
+      │  How agents  │   │  How agents  │   │  How agents  │
+      │   find what  │   │   pay for it │   │  prove who   │
+      │   they need  │   │  in real-time│   │   they are   │
+      └──────────────┘   └──────────────┘   └──────────────┘
+              │                   │                   │
+              └───────────────────┼───────────────────┘
+                                  ▼
+                        🪙  crypto-native infra
+                  (stablecoins · L2s · onchain identity)
 ```
 
-<!--END_SECTION:waka-simple-->
+I'm building in the **capability** and **economic** layers — the substrate that lets autonomous agents discover, transact, and compose across the open internet without humans stitching it together with API keys and Stripe accounts.
+
+> *Stablecoins moved trillions in 2024. Agents are about to be the largest user of them.*
 
 ---
 
-### 🐍 Contribution snake
+## 👋 About me
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajays97/ajays97/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajays97/ajays97/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ajays97/ajays97/output/github-contribution-grid-snake.svg">
-</picture>
+I'm **AJ** — solo founder, product engineer, and full-stack-of-everything generalist based in Bengaluru 🇮🇳
+
+I like building at the seams — the awkward space where new infrastructure has to exist before the obvious products on top of it can. Before this, I shipped wallet infrastructure, B2C crypto products, and spent enough time in customer interviews to develop strong opinions about pretending to know what users want.
+
+```yaml
+name:           AJ Srinivas
+role:           solo founder · product engineer
+location:       Bengaluru, India
+working_on:     agent ↔ economy infrastructure
+exploring:      x402 · MCP · trustless MPC · onchain identity
+shipping:       backend · frontend · infra · design · GTM (yes, all of it)
+fueled_by:      filter coffee + late-night debugging
+fun_fact:       my git history = 30% me · 30% Stack Overflow · 40% Claude
+```
 
 ---
 
-### 🔗 Social info
+## 🛠️ What I build with
 
-<div id="badges">
-    <a href="https://www.linkedin.com/in/ajays97/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=ajaysrinivas530@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Backend
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Postgres](https://img.shields.io/badge/-Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/-OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Turborepo](https://img.shields.io/badge/-Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### Infra & Web3
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Base](https://img.shields.io/badge/-Base-0052FF?style=flat-square&logo=coinbase&logoColor=white)
+![Anthropic](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub, in numbers
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=ajays97&show_icons=true&count_private=true&hide_border=true&title_color=00ff9f&icon_color=00ff9f&text_color=ffffff&bg_color=0a0a0a" />
+<img height="175" src="https://streak-stats.demolab.com?user=ajays97&hide_border=true&background=0a0a0a&stroke=00ff9f&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajays97&layout=compact&hide_border=true&title_color=00ff9f&text_color=ffffff&bg_color=0a0a0a&langs_count=8" />
+<img height="175" src="https://github-profile-trophy.vercel.app/?username=ajays97&theme=matrix&no-frame=true&no-bg=true&row=2&column=4&margin-w=10" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajays97&bg_color=0a0a0a&color=00ff9f&line=00ff9f&point=ffffff&hide_border=true&area=true" width="98%" />
+
 </div>
 
 ---
 
-### 👀 Visitor Info
+## 🐍 The snake eats my contributions
 
-![Hitcount](https://komarev.com/ghpvc/?username=ajays97&color=57bcd9)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajays97/ajays97/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajays97/ajays97/output/github-contribution-grid-snake.svg">
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/ajays97/ajays97/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 🧠 Currently chewing on
+
+- **x402** — HTTP-native payments. Why hasn't every API done this yet?
+- **MCP** — the protocol layer agents will actually live on
+- **Trustless MPC & threshold signing** — wallets without single points of failure
+- **Onchain identity for agents** — EIP-712, attestations, reputation
+- **The economics of M2M commerce** — pricing, settlement, dispute resolution at machine speed
+
+If you're thinking about any of these — or building near them — I'd genuinely love to chat.
+
+---
+
+## 💭 A few things I believe
+
+> *Build the boring infrastructure. The exciting products show up on their own.*
+
+> *A solo founder who can't ship full-stack will lose to one who can.*
+
+> *The best APIs feel like they read your mind. The next-best ones cost $0.001 per call.*
+
+> *Crypto's killer app was always going to be machines paying machines. Humans were a distraction.*
+
+---
+
+## 🤝 Let's talk if...
+
+- You're building in the **agent infra**, **stablecoin payments**, or **onchain identity** space
+- You want to argue about whether MCP is the protocol or the prototype
+- You have a thesis on what gets unlocked when agents have wallets
+- You're a fellow solo founder shipping nights and weekends — solidarity!
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ajays97/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ajaysrinivas530@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<sub><em>"Talk is cheap. Show me the code." — Linus Torvalds</em></sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0a0a0a&height=80&section=footer&reversal=true" />
+
+</div>
