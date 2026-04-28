@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:0f3460&height=220&section=header&text=AJ%20Srinivas&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Building%20the%20capability%20%26%20economic%20layer%20for%20the%20agent%20economy&descSize=17&descAlignY=58&descAlign=50" />
+  <img src="./assets/banner.svg" alt="AJ Srinivas — Building the capability and economic layer for the agent economy" width="100%" />
 
   [![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=00FF9F&center=true&vCenter=true&width=720&lines=Agents+need+wallets%2C+not+API+keys.;Money+should+move+at+the+speed+of+inference.;The+next+internet+is+machine-to-machine.;Crypto+rails+%2B+AI+agents+%3D+a+new+economy.)](https://git.io/typing-svg)
 
@@ -113,15 +113,12 @@ fun_fact:       my git history = 30% me · 30% Stack Overflow · 40% Claude
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=ajays97&show_icons=true&count_private=true&hide_border=true&title_color=00ff9f&icon_color=00ff9f&text_color=ffffff&bg_color=0a0a0a" />
-<img height="175" src="https://streak-stats.demolab.com?user=ajays97&hide_border=true&background=0a0a0a&stroke=00ff9f&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajays97&layout=compact&hide_border=true&title_color=00ff9f&text_color=ffffff&bg_color=0a0a0a&langs_count=8" />
-<img height="175" src="https://github-profile-trophy.vercel.app/?username=ajays97&theme=matrix&no-frame=true&no-bg=true&row=2&column=4&margin-w=10" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajays97&bg_color=0a0a0a&color=00ff9f&line=00ff9f&point=ffffff&hide_border=true&area=true" width="98%" />
+<img height="170" src="https://streak-stats.demolab.com?user=ajays97&hide_border=true&background=0a0a0a&stroke=00ff9f&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
+<img height="170" src="https://github-profile-trophy.vercel.app/?username=ajays97&theme=matrix&no-frame=true&no-bg=true&row=2&column=4&margin-w=10" />
 
 </div>
+
+> ℹ️ The `github-readme-stats.vercel.app` public instance was retired in late 2025. To restore the language and stats cards, you can either run the [GitHub Action workflow](https://github.com/anuraghazra/github-readme-stats#using-github-actions) (recommended) or [self-deploy a Vercel instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance) with your own GitHub token. I'll wire it up properly soon — for now `streak-stats` and `profile-trophy` are still on healthy hosts.
 
 ---
 
@@ -174,9 +171,5 @@ If you're thinking about any of these — or building near them — I'd genuinel
 <a href="mailto:ajaysrinivas530@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <sub><em>"Talk is cheap. Show me the code." — Linus Torvalds</em></sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0a0a0a&height=80&section=footer&reversal=true" />
 
 </div>
